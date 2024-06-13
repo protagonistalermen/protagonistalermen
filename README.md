@@ -1,16 +1,17 @@
-## Hi there 👋
+### Bem vindo(a) ao meu perfil ❤️
 
-<!--
-**protagonistalermen/protagonistalermen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Meu nome é Ana Lermen
+  
+   -Estou estudando pela plataforma [Alura](https//www.alura.com.br
+   
+   -Estou me desenvolvendo na linguagem JavaScript
+   
+  -Utilizo essa plataforma para aprender á desenvolver os meus projetos
 
-Here are some ideas to get you started:
+  ## Tu pode entrar em contato comigo 📧
+  
+   protagonistalermen@email.com
+   
+   @protagonistalermen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/y6mq0FAXCM0AAAAM/farming.gif)
